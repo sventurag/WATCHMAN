@@ -31,7 +31,7 @@ extern XScuWdt WdtScuInstance;
 
 /****************************************************************************/
 /**
-* @brief	Recover 20 consecutive windows and send them to the computer
+* @brief	Recover 15 consecutive windows and send them to the computer
 *
 * @param	-
 *
